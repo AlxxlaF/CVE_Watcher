@@ -5,7 +5,6 @@
 Il est conçu pour s’exécuter régulièrement (ex. chaque heure) et ne vous contacte **que lorsqu’une nouvelle faille est détectée**. Parfait pour une **veille cybersécurité ciblée** sans spam.
 
 ---
-
 ## 🚀 Fonctionnalités
 
 - 🔍 Recherche des CVE par mot-clé (nom d'outil, éditeur, techno, etc.)
@@ -13,13 +12,8 @@ Il est conçu pour s’exécuter régulièrement (ex. chaque heure) et ne vous c
 - 🧠 Conservation du dernier CVE détecté localement
 - 🕒 Prévu pour une exécution automatique (cron ou tâche planifiée)
 - 🔒 Compatible avec Gmail via mot de passe d'application
-
 ---
 
 ## ⚙️ Installation
-
 1. Clonez ce dépôt :
-
 ```bash
-git clone https://github.com/AlxxlaF/CVE_Watcher.git
-cd CVE_Watcher
