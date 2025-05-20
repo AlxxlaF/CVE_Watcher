@@ -16,7 +16,7 @@ Il est conçu pour s’exécuter régulièrement (ex. chaque heure) et ne vous c
 
 ## ⚙️ Installation
 1. Clonez ce dépôt :
-```bash pip install -r requirements.txt ``
+```bash pip install -r requirements.txt ```
 
 ## 🧪 Utilisation
 
